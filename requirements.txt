@@ -1,0 +1,9 @@
+tensorflow
+autokeras
+scikit-learn
+numpy
+pandas
+matplotlib
+Pillow
+streamlit
+watchdog
