@@ -20,7 +20,7 @@ class CastToFloat32(Layer):
 
 # Sınıf adları ve model yolları
 IMAGE_SIZE = (32, 32)
-CLASS_NAMES = ['Normal', 'Diyabetik Retinopati', 'Katarakt', 'Glokom']
+CLASS_NAMES = ['cataract', 'diabetic_retinopathy', 'glaucoma', 'normal']
 
 MODEL_FILES = {
     "Neural Network": "neural_network_model.joblib",
