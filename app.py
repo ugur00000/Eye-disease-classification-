@@ -56,7 +56,7 @@ def preprocess_image(image):
 # ===============================
 # 🌐 Streamlit Arayüzü
 st.set_page_config(page_title="Göz Hastalığı Tanı Sistemi", layout="centered")
-st.title("👁️ Göz Hastalıklarının Deep Learning ile özelliklerinin çıkartılıp Machine Learning ile Tahmin Sistemi")
+st.title("👁️ Göz Hastalıklarının Machine Learning Modelleri ile Sınıflandırma Uygulaması")
 st.write("Bir retina görüntüsü yükleyin ve tahmini almak için bir model seçin.")
 st.write("Bu sistem şu anda sadece Diyabetik Retinopati, Glokom, Katarakt ve Sağlıklı Gözleri Sınıflandırmaktadır.")
 
